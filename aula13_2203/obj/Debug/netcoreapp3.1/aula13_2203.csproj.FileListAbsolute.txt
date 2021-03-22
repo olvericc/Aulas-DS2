@@ -1,0 +1,13 @@
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\bin\Debug\netcoreapp3.1\aula13_2203.exe
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\bin\Debug\netcoreapp3.1\aula13_2203.deps.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\bin\Debug\netcoreapp3.1\aula13_2203.runtimeconfig.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\bin\Debug\netcoreapp3.1\aula13_2203.runtimeconfig.dev.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\bin\Debug\netcoreapp3.1\aula13_2203.dll
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\bin\Debug\netcoreapp3.1\aula13_2203.pdb
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\obj\Debug\netcoreapp3.1\aula13_2203.csprojAssemblyReference.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\obj\Debug\netcoreapp3.1\aula13_2203.AssemblyInfoInputs.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\obj\Debug\netcoreapp3.1\aula13_2203.AssemblyInfo.cs
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\obj\Debug\netcoreapp3.1\aula13_2203.csproj.CoreCompileInputs.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\obj\Debug\netcoreapp3.1\aula13_2203.dll
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\obj\Debug\netcoreapp3.1\aula13_2203.pdb
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\aula13_2203\obj\Debug\netcoreapp3.1\aula13_2203.genruntimeconfig.cache
