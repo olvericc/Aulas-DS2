@@ -15,9 +15,15 @@ namespace aula15_2903
         public string Data_Loc { get; set; }
         public string Nome_cliente { get; set; }
 
+        public string Dados()
+        {
+            return ("Cliente: " + Nome_cliente + "\nData: " + Data_Loc + "\nModelo: " + Veiculo.Modelo + 
+                    "\nCor: " + Veiculo.Cor);
+        }
+
         public double ValorLocacao()
         {
             return (Quantidade * Veiculo.Valor);
         }
-    }
+    }   
 }
