@@ -1,0 +1,13 @@
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\bin\Debug\netcoreapp3.1\aula16_0504.exe
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\bin\Debug\netcoreapp3.1\aula16_0504.deps.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\bin\Debug\netcoreapp3.1\aula16_0504.runtimeconfig.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\bin\Debug\netcoreapp3.1\aula16_0504.runtimeconfig.dev.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\bin\Debug\netcoreapp3.1\aula16_0504.dll
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\bin\Debug\netcoreapp3.1\aula16_0504.pdb
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\obj\Debug\netcoreapp3.1\aula16_0504.csprojAssemblyReference.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\obj\Debug\netcoreapp3.1\aula16_0504.AssemblyInfoInputs.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\obj\Debug\netcoreapp3.1\aula16_0504.AssemblyInfo.cs
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\obj\Debug\netcoreapp3.1\aula16_0504.csproj.CoreCompileInputs.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\obj\Debug\netcoreapp3.1\aula16_0504.dll
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\obj\Debug\netcoreapp3.1\aula16_0504.pdb
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula16_0504\obj\Debug\netcoreapp3.1\aula16_0504.genruntimeconfig.cache
