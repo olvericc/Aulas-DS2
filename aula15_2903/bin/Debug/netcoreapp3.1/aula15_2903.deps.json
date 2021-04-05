@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aula15_2903/1.0.0": {
+        "runtime": {
+          "aula15_2903.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula15_2903/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

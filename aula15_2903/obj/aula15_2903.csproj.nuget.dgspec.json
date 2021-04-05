@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\aula15_2903\\aula15_2903.csproj": {}
+    "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\Aulas-DS2\\aula15_2903\\aula15_2903.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\aula15_2903\\aula15_2903.csproj": {
+    "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\Aulas-DS2\\aula15_2903\\aula15_2903.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\aula15_2903\\aula15_2903.csproj",
+        "projectUniqueName": "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\Aulas-DS2\\aula15_2903\\aula15_2903.csproj",
         "projectName": "aula15_2903",
-        "projectPath": "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\aula15_2903\\aula15_2903.csproj",
+        "projectPath": "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\Aulas-DS2\\aula15_2903\\aula15_2903.csproj",
         "packagesPath": "C:\\Users\\ERIC LOPES OLIVEIRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\aula15_2903\\obj\\",
+        "outputPath": "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\Aulas-DS2\\aula15_2903\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ERIC LOPES OLIVEIRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
