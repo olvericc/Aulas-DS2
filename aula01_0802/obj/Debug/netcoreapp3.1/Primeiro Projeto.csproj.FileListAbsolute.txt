@@ -1,0 +1,26 @@
+C:\vscode\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.exe
+C:\vscode\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.deps.json
+C:\vscode\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.runtimeconfig.json
+C:\vscode\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.runtimeconfig.dev.json
+C:\vscode\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.dll
+C:\vscode\Primeiro Projeto\bin\Debug\netcoreapp3.1\Primeiro Projeto.pdb
+C:\vscode\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.csprojAssemblyReference.cache
+C:\vscode\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.AssemblyInfoInputs.cache
+C:\vscode\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.AssemblyInfo.cs
+C:\vscode\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\vscode\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.dll
+C:\vscode\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.pdb
+C:\vscode\Primeiro Projeto\obj\Debug\netcoreapp3.1\Primeiro Projeto.genruntimeconfig.cache
+C:\vscode\aula01\bin\Debug\netcoreapp3.1\Primeiro Projeto.exe
+C:\vscode\aula01\bin\Debug\netcoreapp3.1\Primeiro Projeto.deps.json
+C:\vscode\aula01\bin\Debug\netcoreapp3.1\Primeiro Projeto.runtimeconfig.json
+C:\vscode\aula01\bin\Debug\netcoreapp3.1\Primeiro Projeto.runtimeconfig.dev.json
+C:\vscode\aula01\bin\Debug\netcoreapp3.1\Primeiro Projeto.dll
+C:\vscode\aula01\bin\Debug\netcoreapp3.1\Primeiro Projeto.pdb
+C:\vscode\aula01\obj\Debug\netcoreapp3.1\Primeiro Projeto.csprojAssemblyReference.cache
+C:\vscode\aula01\obj\Debug\netcoreapp3.1\Primeiro Projeto.AssemblyInfoInputs.cache
+C:\vscode\aula01\obj\Debug\netcoreapp3.1\Primeiro Projeto.AssemblyInfo.cs
+C:\vscode\aula01\obj\Debug\netcoreapp3.1\Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\vscode\aula01\obj\Debug\netcoreapp3.1\Primeiro Projeto.dll
+C:\vscode\aula01\obj\Debug\netcoreapp3.1\Primeiro Projeto.pdb
+C:\vscode\aula01\obj\Debug\netcoreapp3.1\Primeiro Projeto.genruntimeconfig.cache

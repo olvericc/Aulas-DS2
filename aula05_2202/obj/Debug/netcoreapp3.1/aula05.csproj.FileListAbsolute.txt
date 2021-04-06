@@ -1,0 +1,26 @@
+C:\ds2\aula05\obj\Debug\netcoreapp3.1\aula05.csprojAssemblyReference.cache
+C:\ds2\aula05\obj\Debug\netcoreapp3.1\aula05.AssemblyInfoInputs.cache
+C:\ds2\aula05\obj\Debug\netcoreapp3.1\aula05.AssemblyInfo.cs
+C:\ds2\aula05\obj\Debug\netcoreapp3.1\aula05.csproj.CoreCompileInputs.cache
+C:\ds2\aula05\bin\Debug\netcoreapp3.1\aula05.exe
+C:\ds2\aula05\bin\Debug\netcoreapp3.1\aula05.deps.json
+C:\ds2\aula05\bin\Debug\netcoreapp3.1\aula05.runtimeconfig.json
+C:\ds2\aula05\bin\Debug\netcoreapp3.1\aula05.runtimeconfig.dev.json
+C:\ds2\aula05\bin\Debug\netcoreapp3.1\aula05.dll
+C:\ds2\aula05\bin\Debug\netcoreapp3.1\aula05.pdb
+C:\ds2\aula05\obj\Debug\netcoreapp3.1\aula05.dll
+C:\ds2\aula05\obj\Debug\netcoreapp3.1\aula05.pdb
+C:\ds2\aula05\obj\Debug\netcoreapp3.1\aula05.genruntimeconfig.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\bin\Debug\netcoreapp3.1\aula05.exe
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\bin\Debug\netcoreapp3.1\aula05.deps.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\bin\Debug\netcoreapp3.1\aula05.runtimeconfig.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\bin\Debug\netcoreapp3.1\aula05.runtimeconfig.dev.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\bin\Debug\netcoreapp3.1\aula05.dll
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\bin\Debug\netcoreapp3.1\aula05.pdb
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\obj\Debug\netcoreapp3.1\aula05.csprojAssemblyReference.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\obj\Debug\netcoreapp3.1\aula05.AssemblyInfoInputs.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\obj\Debug\netcoreapp3.1\aula05.AssemblyInfo.cs
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\obj\Debug\netcoreapp3.1\aula05.csproj.CoreCompileInputs.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\obj\Debug\netcoreapp3.1\aula05.dll
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\obj\Debug\netcoreapp3.1\aula05.pdb
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\Código das aulas\aula05 22-02\obj\Debug\netcoreapp3.1\aula05.genruntimeconfig.cache

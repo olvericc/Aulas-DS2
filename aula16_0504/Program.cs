@@ -6,7 +6,6 @@ namespace aula16_0504
 {
     class Program
     {
-
         //Primeira Lista em C#
 
         static void Main(string[] args)
@@ -22,14 +21,14 @@ namespace aula16_0504
             lista.Add("Anna");
             lista.Add("Sidney");
 
-            //mostrando no console
+            //Para visualizar a lista no console usa o comando foreach()
             
             foreach(string objeto in lista)
             {
                 Console.WriteLine(objeto);
             }
 
-            //inserir na lista
+            //INSERT
 
             /*
             lista.Insert(0, "Marcos");
@@ -76,7 +75,7 @@ namespace aula16_0504
             Console.WriteLine("--------------");
             Console.WriteLine("Último com letra A: "+ resultado5);
             Console.WriteLine("--------------");
-            */
+            
             //Busca composta
 
             /*
