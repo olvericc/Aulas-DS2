@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aula17EXERCICIO_0604/1.0.0": {
+        "runtime": {
+          "aula17EXERCICIO_0604.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula17EXERCICIO_0604/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

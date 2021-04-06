@@ -1,0 +1,13 @@
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\bin\Debug\netcoreapp3.1\aula17EXERCICIO_0604.exe
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\bin\Debug\netcoreapp3.1\aula17EXERCICIO_0604.deps.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\bin\Debug\netcoreapp3.1\aula17EXERCICIO_0604.runtimeconfig.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\bin\Debug\netcoreapp3.1\aula17EXERCICIO_0604.runtimeconfig.dev.json
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\bin\Debug\netcoreapp3.1\aula17EXERCICIO_0604.dll
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\bin\Debug\netcoreapp3.1\aula17EXERCICIO_0604.pdb
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\obj\Debug\netcoreapp3.1\aula17EXERCICIO_0604.csprojAssemblyReference.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\obj\Debug\netcoreapp3.1\aula17EXERCICIO_0604.AssemblyInfoInputs.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\obj\Debug\netcoreapp3.1\aula17EXERCICIO_0604.AssemblyInfo.cs
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\obj\Debug\netcoreapp3.1\aula17EXERCICIO_0604.csproj.CoreCompileInputs.cache
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\obj\Debug\netcoreapp3.1\aula17EXERCICIO_0604.dll
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\obj\Debug\netcoreapp3.1\aula17EXERCICIO_0604.pdb
+C:\Users\ERIC LOPES OLIVEIRA\OneDrive\SENAI\SEMESTRE 3\Desenvolvimento de Sistemas 2\DS2\Aulas-DS2\aula17EXERCICIO_0604\obj\Debug\netcoreapp3.1\aula17EXERCICIO_0604.genruntimeconfig.cache

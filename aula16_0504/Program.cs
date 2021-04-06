@@ -119,9 +119,7 @@ namespace aula16_0504
             foreach(string objeto in lista){
                 Console.WriteLine(objeto);
             }
-            */
-
-            
+            */   
         }
     }
 }
