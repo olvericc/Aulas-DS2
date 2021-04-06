@@ -28,7 +28,17 @@ namespace aula17_0604
                 Console.WriteLine("Pagamento: " + func.Pagamento().ToString("C"));
             }
 
-            
+            Funcionario resultado = lista.Find(objeto => objeto.Horas>10);
+            if(resultado == null)
+            {
+                Console.WriteLine("Funcionário não encontrado");
+            }
+            else
+            {
+                Console.WriteLine("-------------------------------");
+                Console.WriteLine("Funcionário com mais de 10 horas de trabalho: " + resultado.Nome);
+                Console.WriteLine("Pagamento: " + resultado.Pagamento().ToString("C"));
+            }
         }
     }
 }
