@@ -27,16 +27,15 @@ namespace aula17EXERCICIO_0604
                 Console.WriteLine("Email: "+ people.Email);
                 Console.WriteLine("Quarto: " + people.Quarto);
             }
-                //quartos ocupados
-                Console.WriteLine("---------------------------");
-                Console.WriteLine("Quartos ocupados:");
-                Console.WriteLine(p1.Quarto + ": " + p1.Nome + ", " + p1.Email);
-                Console.WriteLine(p2.Quarto + ": " + p2.Nome + ", " + p2.Email);
-                Console.WriteLine(p3.Quarto + ": " + p3.Nome + ", " + p3.Email);
-                Console.WriteLine(p4.Quarto + ": " + p4.Nome + ", " + p4.Email);
-
-                Console.WriteLine("---------------------------");
-                Pessoa result = lista.Find(objeto => objeto[0] == 'M');
+            //quartos ocupados
+            Console.WriteLine("---------------------------");
+            Console.WriteLine("Quartos ocupados:");
+            Console.WriteLine(p1.Quarto + ": " + p1.Nome + ", " + p1.Email);
+            Console.WriteLine(p2.Quarto + ": " + p2.Nome + ", " + p2.Email);
+            Console.WriteLine(p3.Quarto + ": " + p3.Nome + ", " + p3.Email);
+            Console.WriteLine(p4.Quarto + ": " + p4.Nome + ", " + p4.Email);
+            Console.WriteLine("---------------------------");
+            Console.WriteLine("Dados de clientes começando com a letra M: ");    
         }
     }
 }

@@ -30,16 +30,20 @@ namespace aula16_0504
             }
 
             //inserir na lista
+
             /*
             lista.Insert(0, "Marcos");
+            */
 
+            /*
             foreach(string objeto in lista)
             {
                 Console.WriteLine(objeto);
             }
             Console.WriteLine("--------------");
             Console.WriteLine("Quantidade de nomes: "+ lista.Count);
-
+            */
+            
             //Buscas
             Console.WriteLine("--------------");
 
