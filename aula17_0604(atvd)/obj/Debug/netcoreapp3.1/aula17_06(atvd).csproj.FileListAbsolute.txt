@@ -1,0 +1,13 @@
+C:\DS2\aula17_0604(atvd)\bin\Debug\netcoreapp3.1\aula17_06(atvd).exe
+C:\DS2\aula17_0604(atvd)\bin\Debug\netcoreapp3.1\aula17_06(atvd).deps.json
+C:\DS2\aula17_0604(atvd)\bin\Debug\netcoreapp3.1\aula17_06(atvd).runtimeconfig.json
+C:\DS2\aula17_0604(atvd)\bin\Debug\netcoreapp3.1\aula17_06(atvd).runtimeconfig.dev.json
+C:\DS2\aula17_0604(atvd)\bin\Debug\netcoreapp3.1\aula17_06(atvd).dll
+C:\DS2\aula17_0604(atvd)\bin\Debug\netcoreapp3.1\aula17_06(atvd).pdb
+C:\DS2\aula17_0604(atvd)\obj\Debug\netcoreapp3.1\aula17_06(atvd).csprojAssemblyReference.cache
+C:\DS2\aula17_0604(atvd)\obj\Debug\netcoreapp3.1\aula17_06(atvd).AssemblyInfoInputs.cache
+C:\DS2\aula17_0604(atvd)\obj\Debug\netcoreapp3.1\aula17_06(atvd).AssemblyInfo.cs
+C:\DS2\aula17_0604(atvd)\obj\Debug\netcoreapp3.1\aula17_06(atvd).csproj.CoreCompileInputs.cache
+C:\DS2\aula17_0604(atvd)\obj\Debug\netcoreapp3.1\aula17_06(atvd).dll
+C:\DS2\aula17_0604(atvd)\obj\Debug\netcoreapp3.1\aula17_06(atvd).pdb
+C:\DS2\aula17_0604(atvd)\obj\Debug\netcoreapp3.1\aula17_06(atvd).genruntimeconfig.cache

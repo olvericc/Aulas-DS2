@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\Aulas-DS2\\aula17EXERCICIO_0604\\aula17EXERCICIO_0604.csproj",
-      "projectName": "aula17EXERCICIO_0604",
-      "projectPath": "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\Aulas-DS2\\aula17EXERCICIO_0604\\aula17EXERCICIO_0604.csproj",
+      "projectUniqueName": "C:\\DS2\\aula17_0604(atvd)\\aula17_06(atvd).csproj",
+      "projectName": "aula17_06(atvd)",
+      "projectPath": "C:\\DS2\\aula17_0604(atvd)\\aula17_06(atvd).csproj",
       "packagesPath": "C:\\Users\\ERIC LOPES OLIVEIRA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ERIC LOPES OLIVEIRA\\OneDrive\\SENAI\\SEMESTRE 3\\Desenvolvimento de Sistemas 2\\DS2\\Aulas-DS2\\aula17EXERCICIO_0604\\obj\\",
+      "outputPath": "C:\\DS2\\aula17_0604(atvd)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ERIC LOPES OLIVEIRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
