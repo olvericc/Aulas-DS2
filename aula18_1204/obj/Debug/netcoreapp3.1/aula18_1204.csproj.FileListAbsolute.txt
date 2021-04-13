@@ -1,0 +1,13 @@
+C:\projetos\DS2\aula18_1204\bin\Debug\netcoreapp3.1\aula18_1204.exe
+C:\projetos\DS2\aula18_1204\bin\Debug\netcoreapp3.1\aula18_1204.deps.json
+C:\projetos\DS2\aula18_1204\bin\Debug\netcoreapp3.1\aula18_1204.runtimeconfig.json
+C:\projetos\DS2\aula18_1204\bin\Debug\netcoreapp3.1\aula18_1204.runtimeconfig.dev.json
+C:\projetos\DS2\aula18_1204\bin\Debug\netcoreapp3.1\aula18_1204.dll
+C:\projetos\DS2\aula18_1204\bin\Debug\netcoreapp3.1\aula18_1204.pdb
+C:\projetos\DS2\aula18_1204\obj\Debug\netcoreapp3.1\aula18_1204.csprojAssemblyReference.cache
+C:\projetos\DS2\aula18_1204\obj\Debug\netcoreapp3.1\aula18_1204.AssemblyInfoInputs.cache
+C:\projetos\DS2\aula18_1204\obj\Debug\netcoreapp3.1\aula18_1204.AssemblyInfo.cs
+C:\projetos\DS2\aula18_1204\obj\Debug\netcoreapp3.1\aula18_1204.csproj.CoreCompileInputs.cache
+C:\projetos\DS2\aula18_1204\obj\Debug\netcoreapp3.1\aula18_1204.dll
+C:\projetos\DS2\aula18_1204\obj\Debug\netcoreapp3.1\aula18_1204.pdb
+C:\projetos\DS2\aula18_1204\obj\Debug\netcoreapp3.1\aula18_1204.genruntimeconfig.cache

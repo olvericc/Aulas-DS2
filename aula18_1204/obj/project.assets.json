@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\DS2\\aula17_0604(atvd)\\aula17_06(atvd).csproj",
-      "projectName": "aula17_06(atvd)",
-      "projectPath": "C:\\projetos\\DS2\\aula17_0604(atvd)\\aula17_06(atvd).csproj",
+      "projectUniqueName": "C:\\projetos\\DS2\\aula18_1204\\aula18_1204.csproj",
+      "projectName": "aula18_1204",
+      "projectPath": "C:\\projetos\\DS2\\aula18_1204\\aula18_1204.csproj",
       "packagesPath": "C:\\Users\\ERIC LOPES OLIVEIRA\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\DS2\\aula17_0604(atvd)\\obj\\",
+      "outputPath": "C:\\projetos\\DS2\\aula18_1204\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ERIC LOPES OLIVEIRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
