@@ -1,0 +1,13 @@
+C:\projetos\DS2\aula20_3004\bin\Debug\netcoreapp3.1\aula20_3004.exe
+C:\projetos\DS2\aula20_3004\bin\Debug\netcoreapp3.1\aula20_3004.deps.json
+C:\projetos\DS2\aula20_3004\bin\Debug\netcoreapp3.1\aula20_3004.runtimeconfig.json
+C:\projetos\DS2\aula20_3004\bin\Debug\netcoreapp3.1\aula20_3004.runtimeconfig.dev.json
+C:\projetos\DS2\aula20_3004\bin\Debug\netcoreapp3.1\aula20_3004.dll
+C:\projetos\DS2\aula20_3004\bin\Debug\netcoreapp3.1\aula20_3004.pdb
+C:\projetos\DS2\aula20_3004\obj\Debug\netcoreapp3.1\aula20_3004.csprojAssemblyReference.cache
+C:\projetos\DS2\aula20_3004\obj\Debug\netcoreapp3.1\aula20_3004.AssemblyInfoInputs.cache
+C:\projetos\DS2\aula20_3004\obj\Debug\netcoreapp3.1\aula20_3004.AssemblyInfo.cs
+C:\projetos\DS2\aula20_3004\obj\Debug\netcoreapp3.1\aula20_3004.csproj.CoreCompileInputs.cache
+C:\projetos\DS2\aula20_3004\obj\Debug\netcoreapp3.1\aula20_3004.dll
+C:\projetos\DS2\aula20_3004\obj\Debug\netcoreapp3.1\aula20_3004.pdb
+C:\projetos\DS2\aula20_3004\obj\Debug\netcoreapp3.1\aula20_3004.genruntimeconfig.cache
