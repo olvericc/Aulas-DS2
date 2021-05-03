@@ -1,0 +1,9 @@
+1 - For => icrementa no início 
+    While => icrementa no final
+
+2 - For => icrementa no início 
+    Foreach => icrementa no início e no final
+
+3 - O Foreach lê dados do início ao fim, sendo uma forma mais controlada.
+
+4 - calculadora

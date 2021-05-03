@@ -25,8 +25,9 @@ namespace aula20_3004
                     pessoas.Add(new Pessoa("Carolina", 19));
                 }
             */
-
+            
             List<Pessoa> list = new List<Pessoa>();
+
 
             list.Add(p1);
             list.Add(p2);
@@ -41,11 +42,17 @@ namespace aula20_3004
 
             //usar o dotnet build para compilar e verificar os erros existentes.
 
-            list.foreach (delegate(Pessoa dados in list))
-            {
-                
-            }
+            //Lista não ordenada
 
+            static void ListaNaoOrdenada()
+            {                   
+                Console.WriteLine("LISTA NÃO ORDENADA");
+
+                foreach(delegate(Pessoa dados)
+                {
+                    Console.WriteLine(String.Format("{0}{1}", dados.idade, Pessoa.nome));    
+                });
+            }
         }
     }
 }

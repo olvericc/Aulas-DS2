@@ -1,0 +1,13 @@
+C:\projetos\DS2\aula21_0305\bin\Debug\netcoreapp3.1\aula21_0305.exe
+C:\projetos\DS2\aula21_0305\bin\Debug\netcoreapp3.1\aula21_0305.deps.json
+C:\projetos\DS2\aula21_0305\bin\Debug\netcoreapp3.1\aula21_0305.runtimeconfig.json
+C:\projetos\DS2\aula21_0305\bin\Debug\netcoreapp3.1\aula21_0305.runtimeconfig.dev.json
+C:\projetos\DS2\aula21_0305\bin\Debug\netcoreapp3.1\aula21_0305.dll
+C:\projetos\DS2\aula21_0305\bin\Debug\netcoreapp3.1\aula21_0305.pdb
+C:\projetos\DS2\aula21_0305\obj\Debug\netcoreapp3.1\aula21_0305.csprojAssemblyReference.cache
+C:\projetos\DS2\aula21_0305\obj\Debug\netcoreapp3.1\aula21_0305.AssemblyInfoInputs.cache
+C:\projetos\DS2\aula21_0305\obj\Debug\netcoreapp3.1\aula21_0305.AssemblyInfo.cs
+C:\projetos\DS2\aula21_0305\obj\Debug\netcoreapp3.1\aula21_0305.csproj.CoreCompileInputs.cache
+C:\projetos\DS2\aula21_0305\obj\Debug\netcoreapp3.1\aula21_0305.dll
+C:\projetos\DS2\aula21_0305\obj\Debug\netcoreapp3.1\aula21_0305.pdb
+C:\projetos\DS2\aula21_0305\obj\Debug\netcoreapp3.1\aula21_0305.genruntimeconfig.cache
