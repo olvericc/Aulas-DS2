@@ -79,7 +79,21 @@ namespace lista
             */
 
             /*
-            
+            double[] grades = new double[3];
+            double sumGrades = 0;
+            double media = 0;
+
+            for(int x = 0; x < grades.Length; x++)
+            {
+                Console.WriteLine($"Digite a {x + 1}ª nota: ");
+                grades[x] = double.Parse(Console.ReadLine());
+
+                sumGrades += grades[x];
+            }
+
+            media = sumGrades / grades.Length;
+
+            Console.WriteLine($"A média aritmética das notas digitas é {media:F1}");    
             */
 
             //Questão 4 
