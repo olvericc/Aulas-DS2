@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "aula24.2805(lista)/1.0.0": {
+        "runtime": {
+          "aula24.2805(lista).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula24.2805(lista)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

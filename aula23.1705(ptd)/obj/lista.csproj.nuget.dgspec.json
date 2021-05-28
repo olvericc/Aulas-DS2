@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Senai\\Desenvolvimento de Sistemas 2\\lista\\lista.csproj": {}
+    "C:\\projetos\\DS2\\aula23.1705(ptd)\\lista.csproj": {}
   },
   "projects": {
-    "E:\\Senai\\Desenvolvimento de Sistemas 2\\lista\\lista.csproj": {
+    "C:\\projetos\\DS2\\aula23.1705(ptd)\\lista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Senai\\Desenvolvimento de Sistemas 2\\lista\\lista.csproj",
+        "projectUniqueName": "C:\\projetos\\DS2\\aula23.1705(ptd)\\lista.csproj",
         "projectName": "lista",
-        "projectPath": "E:\\Senai\\Desenvolvimento de Sistemas 2\\lista\\lista.csproj",
+        "projectPath": "C:\\projetos\\DS2\\aula23.1705(ptd)\\lista.csproj",
         "packagesPath": "C:\\Users\\ERIC LOPES OLIVEIRA\\.nuget\\packages\\",
-        "outputPath": "E:\\Senai\\Desenvolvimento de Sistemas 2\\lista\\obj\\",
+        "outputPath": "C:\\projetos\\DS2\\aula23.1705(ptd)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ERIC LOPES OLIVEIRA\\AppData\\Roaming\\NuGet\\NuGet.Config"

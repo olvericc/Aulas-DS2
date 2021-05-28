@@ -64,10 +64,10 @@ namespace lista
                     salarios[cont] = salarios[cont] * aumento;
                 }           
             }
-                for (cont = 0; cont < 5; cont++)
-                {
-                    Console.WriteLine($"Os salários: {salarios[cont].ToString("F2")}" );
-                }
+            for (cont = 0; cont < 5; cont++)
+            {
+                Console.WriteLine($"Os salários: {salarios[cont].ToString("F2")}" );
+            }
             */
 
             //Questão 3 
@@ -93,7 +93,7 @@ namespace lista
 
             media = sumGrades / grades.Length;
 
-            Console.WriteLine($"A média aritmética das notas digitas é {media:F1}");    
+            Console.WriteLine($"A média aritmética das notas digitadas é {media:F1}");    
             */
 
             //Questão 4 
@@ -107,9 +107,9 @@ namespace lista
                 Ao final, mostre as 3 notas dos alunos. 
             */
 
-            /*
+            
                 int tam;
-                Console.Writeline("Digite o tamanho do vetor: ");
+                Console.WriteLine("Digite o tamanho do vetor: ");
                 tam = int.Parse(Console.ReadLine());
 
                 float [] G1 = new float[tam];   //vetor G1
@@ -119,18 +119,18 @@ namespace lista
                 for (int i = 0; i < tam; i++)
                 {
                     //vetor 1
-                    Console.WriteLine("G1-Digite a nota"+(i+1)+":");
+                    Console.WriteLine("G1-Digite a nota: "+(i+1)+":");
                     G1[i] = float.Parse(Console.ReadLine());
                     //vetor 2
-                    Console.WriteLine("G2-Digite a nota"+(i+1)+":");
+                    Console.WriteLine("G2-Digite a nota: "+(i+1)+":");
                     G2[i] = float.Parse(Console.ReadLine());
                     Result[i] = (G1[i] + G2[i]) / 2;
                 }
                 for(int j = 0; j < tam; j++)
                 {
-                    Console.WriteLine("Média das notas" + Result[j]);
+                    Console.WriteLine("Média das notas: " + Result[j]);
                 }
-            */
+            
 
             //Questão 5
 

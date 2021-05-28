@@ -11,3 +11,16 @@ E:\Senai\Desenvolvimento de Sistemas 2\lista\obj\Debug\netcoreapp3.1\lista.cspro
 E:\Senai\Desenvolvimento de Sistemas 2\lista\obj\Debug\netcoreapp3.1\lista.dll
 E:\Senai\Desenvolvimento de Sistemas 2\lista\obj\Debug\netcoreapp3.1\lista.pdb
 E:\Senai\Desenvolvimento de Sistemas 2\lista\obj\Debug\netcoreapp3.1\lista.genruntimeconfig.cache
+C:\projetos\DS2\aula23.1705(ptd)\obj\Debug\netcoreapp3.1\lista.csprojAssemblyReference.cache
+C:\projetos\DS2\aula23.1705(ptd)\obj\Debug\netcoreapp3.1\lista.AssemblyInfoInputs.cache
+C:\projetos\DS2\aula23.1705(ptd)\obj\Debug\netcoreapp3.1\lista.AssemblyInfo.cs
+C:\projetos\DS2\aula23.1705(ptd)\obj\Debug\netcoreapp3.1\lista.csproj.CoreCompileInputs.cache
+C:\projetos\DS2\aula23.1705(ptd)\obj\Debug\netcoreapp3.1\lista.dll
+C:\projetos\DS2\aula23.1705(ptd)\obj\Debug\netcoreapp3.1\lista.pdb
+C:\projetos\DS2\aula23.1705(ptd)\bin\Debug\netcoreapp3.1\lista.exe
+C:\projetos\DS2\aula23.1705(ptd)\bin\Debug\netcoreapp3.1\lista.deps.json
+C:\projetos\DS2\aula23.1705(ptd)\bin\Debug\netcoreapp3.1\lista.runtimeconfig.json
+C:\projetos\DS2\aula23.1705(ptd)\bin\Debug\netcoreapp3.1\lista.runtimeconfig.dev.json
+C:\projetos\DS2\aula23.1705(ptd)\bin\Debug\netcoreapp3.1\lista.dll
+C:\projetos\DS2\aula23.1705(ptd)\bin\Debug\netcoreapp3.1\lista.pdb
+C:\projetos\DS2\aula23.1705(ptd)\obj\Debug\netcoreapp3.1\lista.genruntimeconfig.cache

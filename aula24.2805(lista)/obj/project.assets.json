@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\ERIC LOPES OLIVEIRA\\.nuget\\packages\\": {}
@@ -13,23 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\DS2\\aula23.1705(ptd)\\lista.csproj",
-      "projectName": "lista",
-      "projectPath": "C:\\projetos\\DS2\\aula23.1705(ptd)\\lista.csproj",
+      "projectUniqueName": "E:\\Senai\\Desenvolvimento de Sistemas 2\\DS2\\aula24.2805(lista)\\aula24.2805(lista).csproj",
+      "projectName": "aula24.2805(lista)",
+      "projectPath": "E:\\Senai\\Desenvolvimento de Sistemas 2\\DS2\\aula24.2805(lista)\\aula24.2805(lista).csproj",
       "packagesPath": "C:\\Users\\ERIC LOPES OLIVEIRA\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\DS2\\aula23.1705(ptd)\\obj\\",
+      "outputPath": "E:\\Senai\\Desenvolvimento de Sistemas 2\\DS2\\aula24.2805(lista)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ERIC LOPES OLIVEIRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ERIC LOPES OLIVEIRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -40,7 +43,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -56,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
